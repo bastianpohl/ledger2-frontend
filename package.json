@@ -20,7 +20,7 @@
     "vue-cookies-ts": "^1.5.19",
     "vue-property-decorator": "^8.4.2",
     "vue-router": "^3.1.5",
-    "vuetify": "^2.2.26"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@types/moment": "^2.13.0",
